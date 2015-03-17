@@ -1,11 +1,14 @@
-## GrovePi Firmware version 1.2.2 - Jan 2015
+## GrovePi Firmware version 1.3.0 - Mar 2015
 
 Binary sketch size: 14,504 bytes (of a 32,256 byte maximum)
 
 ### Changes
 
-* Adds Grove Chainable RGB LED
-
+* Removes Grove 3-Axis Digital Accelerometer(±1.5g)
+* Removes Grove RTC
+* Upgrades Grove LED Bar
+* Adds Grove Circular LED
+* Firmware optimisations
 
 ### Commands
 
